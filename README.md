@@ -16,9 +16,19 @@
 
 ### 🧠 Tech Stack
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,apple,gmail,github,express,discord,django,dart,bash,gitlab,vercel,supabase,react,pycharm,notion,nodejs,nextjs,netlify,mongodb,js,idea,html,vscode,webstorm,postman,firebase,figma,flutter,bootstrap" />
-  </a>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=js,html,react,nextjs,nodejs,express,dart,flutter,django,mongodb,firebase,supabase" />
+    </a>
+</p>
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=idea,pycharm,webstorm,androidstudio,vscode,postman,figma,notion" />
+    </a>
+</p>
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=github,gitlab,vercel,netlify,discord,gmail,apple,bash,bootstrap" />
+    </a>
 </p>
 ---
 
