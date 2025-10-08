@@ -1,15 +1,13 @@
-<h1 align="center">Hi, I'm Hadi 👋</h1>
-<p align="center">Software Engineer · Full-Stack Developer · Problem Solver</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/hadidireya/">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:hadidireya@gmail.com?subject=Hello%20Hadi%20From%20GitHub">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
-  </a>
-</p>
+<h1>Hi, I'm Hadi 👋</h1>
+
+Software Engineer · Full-Stack Developer · Problem Solver  
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hadidireya/) &nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:hadidireya@gmail.com?subject=Hello%20Hadi,%20From%20Github)
+
+</div>
 
 ---
 
