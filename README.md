@@ -25,7 +25,7 @@ My name is Hadi — a Software Engineer interested in backend, mobile developmen
 
 ---
 
-### 💻 Tech Stack
+### Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,dart,flutter,django,mongodb,firebase,supabase" alt="Tech Stack Icons" />
@@ -40,10 +40,10 @@ My name is Hadi — a Software Engineer interested in backend, mobile developmen
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=HadiDireya&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=HadiDireya&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Stats" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HadiDireya&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HadiDireya&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
     </td>
   </tr>
 </table>
