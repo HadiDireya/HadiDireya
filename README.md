@@ -20,20 +20,11 @@ Software Engineer · Full-Stack Developer · Problem Solver
 
 ### 🧠 Tech Stack
 <p align="center">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,html,react,nextjs,nodejs,express,dart,flutter,django,mongodb,firebase,supabase" />
-    </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,dart,flutter,django,mongodb,firebase,supabase" />
+  </a>
 </p>
-<p align="center">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=idea,pycharm,webstorm,androidstudio,vscode,postman,figma,notion" />
-    </a>
-</p>
-<p align="center">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=github,gitlab,vercel,netlify,discord,gmail,apple,bash,bootstrap" />
-    </a>
-</p>
+
 ---
 
 ### 🔗 Featured Projects
