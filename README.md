@@ -9,9 +9,23 @@ My name is Hadi — a Software Engineer interested in backend, mobile developmen
 
 </div>
 
+<!-- Animated White Wave Divider -->
+<div style="position:relative; width:100%; height:100px; overflow:hidden;">
+  <svg viewBox="0 0 1200 120" preserveAspectRatio="none" style="position:absolute; bottom:0; width:100%; height:100px;">
+    <path d="M0,0 C300,100 900,0 1200,100 L1200,120 L0,120 Z" fill="white">
+      <animate repeatCount="indefinite" attributeName="d" dur="6s"
+        values="
+        M0,0 C300,100 900,0 1200,100 L1200,120 L0,120 Z;
+        M0,0 C400,0 800,120 1200,0 L1200,120 L0,120 Z;
+        M0,0 C300,100 900,0 1200,100 L1200,120 L0,120 Z">
+      </animate>
+    </path>
+  </svg>
+</div>
+
 ---
 
-### 🧠 Tech Stack
+### 💻 Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,dart,flutter,django,mongodb,firebase,supabase" alt="Tech Stack Icons" />
@@ -20,7 +34,7 @@ My name is Hadi — a Software Engineer interested in backend, mobile developmen
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 <div align="center">
 
 <table>
