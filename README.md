@@ -1,8 +1,9 @@
 <div align="center">
 
-<h1>Hi, I'm Hadi 👋</h1>
+<h1>Hello, Muggles👋</h1>
 
-Software Engineer · Full-Stack Developer · Problem Solver  
+My name is Hadi - a Software Engineer interested in backend, mobile development, and API design.
+
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hadidireya/) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:hadidireya@gmail.com?subject=Hello%20Hadi,%20From%20Github)
@@ -10,11 +11,6 @@ Software Engineer · Full-Stack Developer · Problem Solver
 </div>
 
 ---
-
-### 🚀 What I Build
-- Scalable web apps using **Next.js**, **Express**, and **MongoDB**
-- APIs that connect real products to users
-- Side projects blending **data**, **finance**, and **engineering**
 
 ---
 
@@ -27,24 +23,9 @@ Software Engineer · Full-Stack Developer · Problem Solver
 
 ---
 
-### 🔗 Featured Projects
-- [Amana Bookstore](https://github.com/Amana-Bootcamp/Amana-Bookstore-with-db) — Full-stack bookstore with MongoDB + API.
-- [Amana Fundraising](https://github.com/Amana-Bootcamp/Amana-Fundraising) — Donation platform built on Firestore + Next.js.
-- [Samaher Couture](https://github.com/HadiDireya/SamaherCoutureTest) — Abaya e-commerce site with Firebase + Supabase.
-
----
-
-### 📊 GitHub Metrics
+### 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=HadiDireya&show_icons=true&theme=radical)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HadiDireya&layout=compact&theme=radical)
-![Streak](https://streak-stats.demolab.com?user=HadiDireya&theme=radical)
-![Trophy](https://github-profile-trophy.vercel.app/?username=HadiDireya&theme=radical)
-
----
-
-### ⏱ WakaTime Coding Activity
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ---
 
