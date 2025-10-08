@@ -50,17 +50,10 @@ My name is Hadi — a Software Engineer interested in backend, mobile developmen
 
 </div>
 
----
-
-### 🧩 Latest GitHub Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
 ### ⚡ Current Focus
-Learning data structures deeply and mastering performance-driven backend systems.
+
+Enhancing what I already know — improving backend logic, refining API design, and deepening my understanding of full-stack architecture and scalable system design.
 
 ---
 
-<p align="center">“Build, break, learn, repeat.”</p>
+<p align="center">“Build, Fail, Learn, Commit, Repeat.”</p>
