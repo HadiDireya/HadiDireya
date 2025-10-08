@@ -1,8 +1,8 @@
 <div align="center">
 
-<h1>Hello, Muggles 👋</h1>
+<h1>Hello, Muggles <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-My name is Hadi — a Software Engineer interested in backend, mobile development, and API design.
+## My name is Hadi — a Software Engineer interested in backend, mobile development, and API design.
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hadidireya/) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:hadidireya@gmail.com?subject=Hello%20Hadi,%20From%20GitHub)
