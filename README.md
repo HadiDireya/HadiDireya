@@ -15,13 +15,11 @@
 ---
 
 ### 🧠 Tech Stack
-| Category | Tools |
-|-----------|--------|
-| Frontend | Next.js · React · TailwindCSS |
-| Backend | Node.js · Express · Firebase · MongoDB |
-| DevOps | Docker · Railway · Vercel |
-| Languages | JavaScript · TypeScript · Python |
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,apple,gmail,github,express,discord,django,dart,bash,gitlab,vercel,supabase,react,pycharm,notion,nodejs,nextjs,netlify,mongodb,js,idea,html,vscode,webstorm,postman,firebase,figma,flutter,bootstrap" />
+  </a>
+</p>
 ---
 
 ### 🔗 Featured Projects
