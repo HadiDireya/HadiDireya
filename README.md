@@ -35,24 +35,6 @@
 </p>
 
 
-
-### <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="22" /> GitHub Stats
-
-<div align="center">
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=HadiDireya&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Stats" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HadiDireya&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-</div>
-
-
-
 ### ⚡ Current Focus
 
 Enhancing what I already know — improving backend logic, refining API design, and deepening my understanding of full-stack architecture and scalable system design.
